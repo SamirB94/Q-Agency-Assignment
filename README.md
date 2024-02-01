@@ -1,6 +1,6 @@
 # Project Description
 
-Q Posts application
+Q Agency Assignment application
 
 # Getting started
 
